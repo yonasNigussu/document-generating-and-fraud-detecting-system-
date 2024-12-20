@@ -1,0 +1,16 @@
+
+database name= alumni
+admin email= "admin@gmail.com"
+admin password ="Admin@123456"
+clerk email = "clerk@gmail.com"
+clerk password = "Clerk@123456"
+registrar email = "registrar@gmail.com"
+registrar password = "Registrar@123456"
+
+any account reseted default password = 12345678
+
+if you want forget password functionable set your own miltrap in .env 
+
+
+
+yonas nigussu 2015/2023
